@@ -1,0 +1,9 @@
+-- This migration was applied directly to the dedicated Supplier Saver Supabase project.
+-- Supabase project ref: dipyagaxuoqttskrnnnh
+-- Migration version: 20260825073003
+-- Migration name: initial_supplier_saver_schema
+--
+-- It creates the Supplier Saver data model for suppliers, products, supplier catalogue
+-- pricing, price history, shopping lists/items, templates, business settings and import
+-- history, including updated_at/price-history triggers, indexes, RLS and owner policies.
+-- The authoritative applied SQL is retained in Supabase migration history.
