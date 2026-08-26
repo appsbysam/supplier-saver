@@ -1,0 +1,15 @@
+{
+  "name": "Supplier Saver",
+  "short_name": "Supplier Saver",
+  "description": "Compare supplier pricing and build smarter purchasing lists.",
+  "id": "/supplier-saver/",
+  "start_url": "/supplier-saver/",
+  "scope": "/supplier-saver/",
+  "display": "standalone",
+  "background_color": "#f7faf8",
+  "theme_color": "#0ea05a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {"src":"assets/icon-source.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
